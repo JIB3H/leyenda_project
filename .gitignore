@@ -130,3 +130,6 @@ dmypy.json
 
 # Repository with all images
 Class
+
+#Repository with the saved model
+saved_model
