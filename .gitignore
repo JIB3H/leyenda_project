@@ -128,9 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Repository with all images
-Class
-images_test
-
-#Repository with the saved model
-saved_model
+#datasets
+annotations
+train2017
