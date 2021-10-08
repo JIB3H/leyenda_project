@@ -131,3 +131,7 @@ dmypy.json
 #datasets
 annotations
 train2017
+Class
+images_test
+results
+saved_model
