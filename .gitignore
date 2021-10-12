@@ -135,3 +135,6 @@ Class
 images_test
 results
 saved_model
+Photos_autoencodeur
+saved_model_autoencodeur
+checkpoints
