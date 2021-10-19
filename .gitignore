@@ -131,6 +131,7 @@ dmypy.json
 # Repository with all images
 Class
 images_test
+Denoise
 
 #Repository with the saved model
 saved_model
