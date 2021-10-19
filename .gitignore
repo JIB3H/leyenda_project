@@ -132,6 +132,11 @@ dmypy.json
 Class
 images_test
 Denoise
+annotations
+train2017
 
 #Repository with the saved model
 saved_model
+
+train2017.zip
+annotations_trainval2017.zip
