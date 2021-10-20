@@ -134,6 +134,7 @@ images_test
 Denoise
 annotations
 train2017
+Classification
 
 #Repository with the saved model
 saved_model
